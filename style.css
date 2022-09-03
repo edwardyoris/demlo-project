@@ -39,7 +39,10 @@ body {
 .a-linkmenu-cont {
     color: var(--wb);
     text-decoration: none;
+}
 
+.a-linkmenu-cont:hover {
+    color: var(--o);
 }
 
 .menu-cont {
